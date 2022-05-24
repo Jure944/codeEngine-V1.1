@@ -567,13 +567,14 @@ body{
         justify-content: center;
         align-items: center;
         padding: 10px;
+        padding-top: 5em;
     }
 
     .about__h1{
         display: grid;
         font-size: 1.5em;
         padding-left: 20px;
-        margin-top: 30px;
+        padding-top: 50px;
     }
 
     .about__text{
